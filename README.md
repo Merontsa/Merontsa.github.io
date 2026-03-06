@@ -1,10 +1,12 @@
 
 # ここは私の実験場です。
 
-## H2要素
+## WEBサイトを作っています。
 
-その下
+AIを使ってサイトを作っています。
 
-### H3要素
+### 好きな要素の写真です。
 
-さらにその下も
+[ギリシア]（https://www.arukikata.co.jp/area/gr/）
+
+![サントリーニ](https://www.arukikata.co.jp/wp-content/uploads/2024_1025_2348.jpeg)
